@@ -4,8 +4,7 @@
     "dependencies": {
         "bootstrap": "2.3.x",
         "angular": "1.2.x",
-        "json3": "3.2.x",
-        "jquery": "1.9.x"
+        "json3": "3.2.x"
     },
     "engines": {
     "node": "0.10.x",
