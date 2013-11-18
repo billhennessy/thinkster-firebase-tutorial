@@ -8,7 +8,7 @@
         "angular-cookies": "1.2.0-rc.1",
         "json3": "3.2.x",
         "jquery": "1.9.x",
-        "angular-fire": "latest"
+        "angular-fire": "0.3.x"
     },
     "engines": {
     "node": "0.10.x",
